@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.idea/
+.vscode/
+
+# Local temp files
+*.tmp
+*.bak
